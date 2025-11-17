@@ -1,0 +1,5 @@
+被试编号	Epsilon0值	文件名
+1	NaN	gorilla_1.mat
+2	NaN	gorilla_2.mat
+3	NaN	gorilla_3.mat
+4	NaN	gorilla_4.mat

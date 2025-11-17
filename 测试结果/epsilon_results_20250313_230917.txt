@@ -1,0 +1,6 @@
+被试编号	Epsilon0值	文件名
+1	0.5448	gorilla_1.mat
+2	0.9900	gorilla_2.mat
+3	0.9900	gorilla_3.mat
+4	0.9900	gorilla_4.mat
+5	0.9900	gorilla_5.mat
