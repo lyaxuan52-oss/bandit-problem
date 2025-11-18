@@ -1,0 +1,1 @@
+matlab -r "RUN_EXP;exit;" -nosplash -nodesktop
